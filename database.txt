@@ -1,0 +1,7 @@
+{
+  "area": "00001",
+  "areaUrl": "/v1/account/5d8fde261bcb27001fa15d41/location/5d8fde27b004131f008ce8b0",
+}{
+  "area": "00002",
+  "areaUrl": "/v1/account/5d8fde261bcb27001fa15d41/location/5d8fde27b004131f008ce8b0",
+}
